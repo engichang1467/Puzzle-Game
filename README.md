@@ -22,12 +22,12 @@
 
 - [ ] Application deployed to Heroku (3 marks)
 
-– [ ] Tableset up properlyfor your puzzle (2 marks)
+- [ ] Tableset up properlyfor your puzzle (2 marks)
 
-– [ ] Ability to toggle the table cells (3 marks)
+- [ ] Ability to toggle the table cells (3 marks)
 
-– [ ] reset button working (2 marks)
+- [ ] reset button working (2 marks)
 
-– [ ] show solutionbutton working (2 marks)
+- [ ] show solutionbutton working (2 marks)
 
-– [ ] detecting correctness of final solution (i.e. the “CONGRATULATIONS” message) (4 marks)
+- [ ] detecting correctness of final solution (i.e. the “CONGRATULATIONS” message) (4 marks)
